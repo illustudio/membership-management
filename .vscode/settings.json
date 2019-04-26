@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "team.showWelcomeMessage": false,
+    "[python]":{
+        "editor.formatOnSave":true
+    },
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.linting.pylintEnabled": true
+}
