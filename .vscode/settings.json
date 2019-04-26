@@ -1,6 +1,5 @@
 {
     "python.pythonPath": "venv\\Scripts\\python.exe",
-    "team.showWelcomeMessage": false,
     "[python]":{
         "editor.formatOnSave":true
     },
