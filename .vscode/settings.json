@@ -9,5 +9,6 @@
         "--load-plugins",
         "pylint_django"
     ],
-    "python.linting.pylintEnabled": true
+    "python.linting.pylintEnabled": true,
+    "emmet.includeLanguages": {"django-html": "html"},
 }
